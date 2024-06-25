@@ -1,0 +1,1 @@
+File contains words. words of file are different. each word has different meaning.
